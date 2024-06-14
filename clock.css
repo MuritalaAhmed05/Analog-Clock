@@ -27,7 +27,7 @@ body{
     color: #ccc;
     padding: 1em 0;
     font-family: monospace;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     letter-spacing: 4px;
     /* transition: all ease 0.2s; */
 }
